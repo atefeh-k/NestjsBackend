@@ -25,7 +25,7 @@
 ## Description
 
 H! this code was made by me! just to make sure that I can biuld a Back-End with nestjs and type script. 
-This code is an online shop countaining APIs for adding, removing or Editing a product.
+This code is an online shop containing APIs for adding, removing or editing a product.
 
 ## Installation
 
