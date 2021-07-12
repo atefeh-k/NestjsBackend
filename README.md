@@ -24,8 +24,8 @@
 
 ## Description
 
-H! this code was made by me! just to make sure that I can biuld a Back-End with nestjs and type script. 
-This code is an online shop containing APIs for adding, removing or editing a product.
+H! this code was made by me! just to make sure that I can build a Back-End with nestjs and typescript. 
+This code is an online shop containing APIs for adding, removing, or editing a product.
 
 ## Installation
 
@@ -40,10 +40,10 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run start: dev
 
 # production mode
-$ npm run start:prod
+$ npm run start: prod
 ```
 
 ## Test
@@ -56,12 +56,8 @@ $ npm run test
 $ npm run test:e2e
 
 # test coverage
-$ npm run test:cov
+$ npm run test: cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
