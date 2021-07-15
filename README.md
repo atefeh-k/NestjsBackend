@@ -26,6 +26,7 @@
 
 H! this code was made by me! just to make sure that I can build a Back-End with nestjs and typescript. 
 This code is an online shop containing APIs for adding, removing, or editing a product.
+You can create a product that has id,title,description,price and weight properties.
 
 ## Installation
 
