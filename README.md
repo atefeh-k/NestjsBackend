@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This code was made by me! you can use it as a back-end made by nestjs and mongodb. you can create a product with title, description, price, and weight properties.
 
 ## Installation
 
@@ -64,10 +64,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Atefeh kazemi](kazemi.att@gmail.com)
 
-## License
-
-Nest is [MIT licensed](LICENSE).
