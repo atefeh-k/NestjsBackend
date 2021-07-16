@@ -24,7 +24,7 @@
 
 ## Description
 
-This code was made by me! you can use it as a back-end made by nestjs and mongodb. you can create a product with title, description, price, and weight properties. You can add,update,get and delete a product with it. 
+This code was made by me! you can use it as a back-end project made by nestjs and mongodb. you can create a product with title, description, price, and weight properties. You can add,update,get and delete a product with it. 
 
 ## Installation
 
